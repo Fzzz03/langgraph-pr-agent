@@ -1,0 +1,8 @@
+langgraph>=0.2.0
+langchain-groq>=0.2.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# Optional — only needed if you switch LLM_PROVIDER in .env
+# langchain-ollama>=0.2.0
+# langchain-google-genai>=2.0.0
